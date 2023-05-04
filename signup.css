@@ -1,0 +1,45 @@
+*{
+     box-sizing: border-box;
+}
+
+h6{
+    text-align: center;
+}
+h4{
+    font-weight: 900;
+}
+
+.form-container{
+    width: 600px;
+    margin: 20px auto;
+}
+
+input{
+    width: 100%;
+    background-color: rgb(214, 209, 209);
+    border-radius: 5px;
+    border-style: none;
+    padding: 10px;
+}
+label{
+    display: block;
+    margin-top: 10px;
+}
+a{
+    text-decoration: none;
+}
+
+#checkbox{
+    width: fit-content;
+}
+
+button{
+    background-color: rgb(31, 240, 170);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+   display: block;
+   width: 100%;
+   border-style: none;
+}
